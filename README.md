@@ -13,24 +13,17 @@ You need a web browser to run this application.
 
 ## Installation
 1. Clone the repository using Git:
-```bash
-    git clone https://github.com/iammeliaskhan/Calculator.git
-```
+    ```bash
+        git clone https://github.com/iammeliaskhan/Calculator.git
+    ```
 
 2. Navigate to the project directory:
-```bash
-    cd Calculator
-```
+    ```bash
+        cd Calculator
+    ```
 
-Open `index.html` in your web browser.
+3. Open `index.html` in your web browser.
 
 ## Usage
 
 The calculator provides a simple interface for performing arithmetic calculations. To use the calculator, simply click on the buttons to enter numbers and operators, and the result will be displayed in the input field. You can perform addition, subtraction, multiplication, and division operations, as well as calculate percentages and clear the input field.
-
-## Authors
-Elias Khan - Initial work - iammeliaskhan
-
-
-## Acknowledgments
-The Odin Project for the inspiration to build this project.
