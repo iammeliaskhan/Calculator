@@ -2,7 +2,6 @@
 
 Calculator is a simple web application built with HTML, CSS, and JavaScript that allows users to perform basic arithmetic operations such as addition, subtraction, multiplication, and division. Users can also perform percentage calculations and clear the input field.
 
-
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
@@ -12,15 +11,18 @@ These instructions will get you a copy of the project up and running on your loc
 You need a web browser to run this application.
 
 ## Installation
+
 1. Clone the repository using Git:
-    ```bash
-        git clone https://github.com/iammeliaskhan/Calculator.git
-    ```
+
+   ```bash
+       git clone https://github.com/iammeliaskhan/Calculator.git
+   ```
 
 2. Navigate to the project directory:
-    ```bash
-        cd Calculator
-    ```
+
+   ```bash
+       cd Calculator
+   ```
 
 3. Open `index.html` in your web browser.
 
